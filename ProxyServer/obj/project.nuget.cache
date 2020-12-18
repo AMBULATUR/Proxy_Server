@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LHHpE/2cQGoj0wtlL7Pssh6SA/CRgke9gGzZh83f87Om7d4y0BADiEruxGwuCjlEvcPNFiFFkgnuP/nyyjAgow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vadim\\source\\repos\\ProxyServer\\ProxyServer\\ProxyServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vadim\\.nuget\\packages\\leaf.xnet\\5.2.10\\leaf.xnet.5.2.10.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\sharpcompress\\0.24.0\\sharpcompress.0.24.0.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\system.servicemodel.syndication\\4.5.0\\system.servicemodel.syndication.4.5.0.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
